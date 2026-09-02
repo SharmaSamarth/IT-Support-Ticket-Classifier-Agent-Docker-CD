@@ -27,6 +27,14 @@ test suite, a Docker container, and a GitHub Actions CI pipeline.
 ```
 ## Project Description
 
+An AI-powered IT Support Ticket Classifier Agent built with Gemini that automatically analyzes employee IT support requests and determines the appropriate category, priority, and suggested next action.
+
+The agent is designed as a production-style LLM application and returns structured results that can be easily consumed by downstream systems such as ticketing or IT service-management platforms.
+
+Example
+
+Input:
+
 My laptop is connected to Wi-Fi but the internet is not working.
 
 'Agent Output:' 
