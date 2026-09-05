@@ -1,8 +1,4 @@
-# IT Support Ticket Classifier Agent — Streamlit UI
-# ---------------------------------------------------
-# Small, non-root, environment-configurable image.
-# Build:  docker build -t ticket-classifier-agent .
-# Run:    docker run --rm -p 8501:8501 --env-file .env ticket-classifier-agent
+
 
 FROM python:3.11-slim
 
